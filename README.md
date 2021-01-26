@@ -11,4 +11,5 @@ By Xia Lin January 23£¬2021
 - [Photography of Table And Chairs Near Plants](https://www.pexels.com/photo/photography-of-table-and-chairs-near-plants-827518/ "Photography of Table And Chairs Near Plants") by Valeria Boltneva
 - [Round Brown Wooden Table With Chairs Inside Room](https://www.pexels.com/photo/round-brown-wooden-table-with-chairs-inside-room-1668860/ "Round Brown Wooden Table With Chairs Inside Room") by Vecislavas Popa
 - [Armchair Near Table and Ottoman](https://www.pexels.com/photo/armchair-near-table-and-ottoman-2079249/ "Armchair Near Table and Ottoman") by Emre Can
+### License
 - [Applicable License](https://creativecommons.org/licenses/by/4.0/legalcode "Applicable License")
